@@ -12,4 +12,12 @@
 <!--    <corners-->
 <!--        android:radius="20dp"-->
 <!--        />-->
+    
+    
+    <!-- 
+possible values of type - linear, radial, sweap, center
+
+
+-->
+    
 </shape>
